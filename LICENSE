@@ -1,5 +1,25 @@
-MIT License
+Dual Licensing Notice
+=====================
 
+This repository is licensed under two concurrent licenses:
+- MIT License for all non-.md files
+- Creative Commons Attribution 4.0 International (CC-BY-4.0) for all .md files
+
+
+CC-BY-4.0 License (for .md files)
+---------------------------------
+All markdown (.md) files are licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+
+When using .md files, you MUST:
+1. Retain complete attribution: "Author: ChrisHF" 
+2. Include original article URL: "Originally published in [Your Journal Name], available at: [Article URL]"
+3. Indicate if modifications were made: "This work is adapted from the original"
+4. Include a copy of this license or link to https://creativecommons.org/licenses/by/4.0/
+
+
+MIT License
+-----------
 Copyright (c) 2025 ChrisHF
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
