@@ -1,7 +1,9 @@
 # TrendsDaily
 
 [![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
 Open Source ｜ 本刊开源
+https://github.com/ChrisHyperFunc/TrendsDaily
 
 ---
 
