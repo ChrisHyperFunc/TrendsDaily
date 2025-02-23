@@ -9,6 +9,10 @@ https://github.com/ChrisHyperFunc/TrendsDaily
 
 Indie Hackers Trends Daily：Product Inspiration and Search Keyword Trends. ｜ 独立开发趋势日刊：关于产品灵感、搜索关键词趋势。
 
+## 欢迎订阅公众号-TrendsDaily在此推送
+![扫码_搜索公众号：独立开发爱好者](https://github.com/user-attachments/assets/cfc3cbe8-e4da-48e9-9d60-e08a91894874)
+
+
 ---
 
 # License Notice | 协议说明
